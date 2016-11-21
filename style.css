@@ -1,0 +1,56 @@
+body{
+	background-image:url("snow.jpg");
+	color:white;
+}
+.row{
+	padding:30px;
+}
+.fixed1{
+	position:fixed;
+	text-align:center;
+	border:1px solid yellow;
+	background:black;
+}
+.fixed2{
+	border:1px solid yellow;
+	background:black;
+	text-align:center;
+}
+#description{
+	padding:40px;
+	background:black;
+	border:1px solid yellow;
+	position:fixed-top;
+}
+#languages{
+	background:black;
+	border:1px solid yellow;
+}
+#achievements{
+	background:black;
+	border:1px solid yellow;
+}
+#portfolio{
+	background:black;
+	border:1px solid yellow;
+	text-align:center;
+}
+
+h2{
+	text-decoration:underline;
+	font-style:bold;
+	color:#4286f4;
+	text-align:center;
+}
+a{
+	color:white;
+}
+.image{
+	float:left;
+}
+.navbar-brand{
+	text-decoration:underline;
+	font-style:bold;
+	color:#4286f4;
+}
+
